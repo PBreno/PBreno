@@ -1,3 +1,6 @@
+
+<p><img align="center" src="animation.gif" alt="pbreno" /></p>
+
 <br>
 
 <h1 align="center"> 👋,I'm Breno Pombo</h1>
@@ -25,9 +28,6 @@
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
 </a>
 </p>
-
-
-<p><img align="right" style="display:block; width: 100%; height: auto;" src="animation.gif" alt="pbreno" /></p>
 
 <br>
 
