@@ -2,6 +2,10 @@
 <p><img align="right" style="width: 100%; height: auto;" src="animation.gif" alt="pbreno" /></p>
 
 <br>
+
+
+
+
 <h1 align="center"> Hi there 👋,I'm Breno Pombo</h1>
 
 - 🎓 &nbsp; I'm a graduate in Computer Science from UNESC
