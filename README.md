@@ -1,6 +1,6 @@
 
-<p><img align="right" src="animation.gif" alt="pbreno" /></p>
-<br>
+<p><img align="right" style="width: auto; height: auto;" src="animation.gif" alt="pbreno" /></p>
+
 <br>
 <h1 align="center">Hi there 👋, I'm Breno Pombo</h1>
 
