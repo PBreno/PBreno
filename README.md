@@ -1,6 +1,7 @@
 
 <p><img align="right" src="animation.gif" alt="pbreno" /></p>
 <br>
+<br>
 <h1 align="center">Hi 👋, I'm Breno Pombo</h1>
 
 - 🎓 &nbsp; I'm a graduate in Computer Science from UNESC
