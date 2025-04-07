@@ -3,13 +3,13 @@
 
 <br>
 
-<h1 align="center"> 👋,I'm Breno Pombo</h1>
+<h1 align="center"> Hi there!👋,I'm Breno Pombo</h1>
 
 - 🎓 &nbsp; I'm a graduate in Computer Science from UNESC
-- 👨‍💻 &nbsp; I'm currently Working at Biofhitus in Içara, Santa Catarina-Brazil as IT Analyst.
+- 👨‍💻 &nbsp; I'm currently working at Biofhitus in Içara, Santa Catarina-Brazil as IT Analyst.
 - 🌱 &nbsp; I’m currently learning Python
-- 💡 &nbsp;  I like to explore new technologies and develop software solutions and quick hacks.
-- ✍️ &nbsp;  In my free time, I pursue news about cybersecurity.
+- 💡 &nbsp;  I like to explore new technologies and learn new things.
+- ✍️ &nbsp;  In my free time, I pursue cybersecurity news.
 - ✉️ &nbsp;  You can email me at brenopombobp@hotmail.com! I'll try to respond as soon as I can.
 
 <br>
