@@ -1,5 +1,5 @@
 
-<p><img align="right" style="width: 100%; height: auto;" src="animation.gif" alt="pbreno" /></p>
+<p><img align="right" style="display:block; width: 100%; height: auto;" src="animation.gif" alt="pbreno" /></p>
 
 <br>
 
