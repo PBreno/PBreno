@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center"> Hi there 👋,I'm Breno Pombo</h1>
+<h1 align="center"> 👋,I'm Breno Pombo</h1>
 
 - 🎓 &nbsp; I'm a graduate in Computer Science from UNESC
 - 👨‍💻 &nbsp; I'm currently Working at Biofhitus in Içara, Santa Catarina-Brazil as IT Analyst.
